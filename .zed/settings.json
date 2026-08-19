@@ -1,7 +1,0 @@
-{
-  "hard_tabs": false,
-  "show_edit_predictions": false,
-  "completions": {
-    "lsp": true
-  }
-}
